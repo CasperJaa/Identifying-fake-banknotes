@@ -1,4 +1,4 @@
-![alt text](https://github.com/CasperJaa/Wine-Boutique-Bottleneck-/blob/main/Logo.jpg?raw=true)
+![alt text](https://github.com/CasperJaa/Identifying-fake-banknotes/blob/main/ONCFM.jpg)
 
 # Identifying-fake-banknotes
 > Comparing machine learning algorithms (Logistic Regression and KMeans clustering) in order to find the most accurate method for identifying fake banknotes.
